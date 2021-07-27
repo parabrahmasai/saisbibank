@@ -8,6 +8,6 @@ public class TestOne {
 	
 	}
 	public void m1() {
-		System.out.println("mq");
+		System.out.println("mq: abcd");
 	}
 }
