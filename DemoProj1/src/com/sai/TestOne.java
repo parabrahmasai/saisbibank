@@ -19,4 +19,7 @@ System.out.println("sai");
 	public void m3() {
 		System.out.println("TestOne.m3()");
 	}
+	public void m5() {
+		System.out.println("TestOne.m5()");
+	}
 }
