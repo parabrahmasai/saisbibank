@@ -16,4 +16,7 @@ public class TestOne {
 System.out.println("sai");
 //advmsoz[v
 	}
+	public void m3() {
+		System.out.println("TestOne.m3()");
+	}
 }
