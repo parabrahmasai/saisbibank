@@ -7,4 +7,7 @@ public class TestOne {
 		return new Date();
 	
 	}
+	public void m1() {
+		System.out.println("mq");
+	}
 }
