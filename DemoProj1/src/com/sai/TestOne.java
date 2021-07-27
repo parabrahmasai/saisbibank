@@ -10,4 +10,7 @@ public class TestOne {
 	public void m1() {
 		System.out.println("mq: abcd");
 	}
+	public void m3() {
+		System.out.println("asd");
+	}
 }
