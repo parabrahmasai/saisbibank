@@ -1,7 +1,10 @@
 package com.sai;
 
+import java.util.Date;
+
 public class TestOne {
-public static void main(String[] args) {
+	public Date getSysDate() {
+		return new Date();
 	
-}
+	}
 }

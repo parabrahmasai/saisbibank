@@ -1,5 +1,12 @@
 package com.utility;
 
-public class Test3 {
+import com.sai.TestOne;
 
+public class Test3 {
+	public static void main(String[] args) {
+		
+TestOne t = new TestOne();
+System.out.println(t.getSysDate());
+
+	}
 }
