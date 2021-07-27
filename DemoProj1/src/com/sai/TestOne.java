@@ -8,9 +8,11 @@ public class TestOne {
 	
 	}
 	public void m1() {
-		System.out.println("mq: abcd");
+
+		System.out.println("mq: 1234");
 	}
-	public void m3() {
-		System.out.println("asd");
+	public void m2() {
+		System.out.println("m2 : 12354");
+
 	}
 }
