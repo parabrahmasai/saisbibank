@@ -14,5 +14,6 @@ public class TestOne {
 	public void m2() {
 		System.out.println("m2 : 12354");
 System.out.println("sai");
+//advmsoz[v
 	}
 }
